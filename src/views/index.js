@@ -1,0 +1,14 @@
+export { default as NotFound } from './NotFound';
+export { default as SignIn } from './SignIn';
+export { default as SignUp } from './SignUp';
+export { default as Home } from './Home';
+export { default as CourseDetails } from './CourseDetails';
+export { default as CategoryCourses } from './CategoryCourses';
+export { default as CourseSearching } from './CourseSearching';
+export { default as RegistrationCourses } from './RegistrationCourses';
+export { default as FavoriteCourses } from './FavoriteCourses';
+export { default as Categories } from './Categories';
+export { default as InChargeCourses } from './InChargeCourses';
+export { default as Courses } from './Courses';
+export { default as Users } from './Users';
+export { default as Profile } from './Profile';
